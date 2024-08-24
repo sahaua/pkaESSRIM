@@ -1,0 +1,13 @@
+These points refer to the program pkaESSRIM.py:-
+--> pkaESSRIM.py is an interactive program to produce energy spectrum of recoil (pka) atoms
+	formed due to impact of energetic ions.
+--> first do an ion simulation for large number of times in SRIM-2013 with 'Quick' calculation mode
+	and write the output in its collision.txt file.
+--> keep this collision.txt file in your working directory.
+--> prepare your recoil energy bins in a file called RecoilEnergyBins (see the file in the distribution).
+--> run the program by giving inputs interactively.
+--> get the output data files and the plots.
+
+Thank you for using pkaESSRIM.py
+
+[Reference: A Study of Neutron and Ion Irradiation Induced Atomic Recoil Spectra with Newly Developed Tools RMINDD and pkaESSRIM for Materials Modelling] 
