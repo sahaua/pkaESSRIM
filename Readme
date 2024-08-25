@@ -1,3 +1,6 @@
+pkaESSRIM.py is a program to find out the energy spectra of recoil atoms from the results of simulations using SRIM-2013 in a user-defined energy bin structure and also plot the spectra.
+It will be useful to characterize ion-irradiation environments and corresponding related works.
+
 These points refer to the program pkaESSRIM.py:-
 --> pkaESSRIM.py is an interactive program to produce energy spectrum of recoil (pka) atoms
 	formed due to impact of energetic ions.
