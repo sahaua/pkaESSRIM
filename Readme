@@ -11,7 +11,8 @@ These points refer to the program pkaESSRIM.py:-
 --> run the program by giving inputs interactively.
 --> get the output data files and the plots.
 
-Thank you for using pkaESSRIM.py
-
+Please cite the following reference while using the program:
 [Reference: A Study of Neutron and Ion Irradiation Induced Atomic Recoil Spectra with Newly Developed Tools RMINDD and pkaESSRIM for Materials Modelling
 website: https://events.tuni.fi/uploads/2023/03/f1611564-pysicsdays2023_talk_abstracts.pdf (page 21)] 
+
+Thank you for using the program pkaESSRIM.py.
