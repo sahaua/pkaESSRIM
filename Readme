@@ -7,7 +7,7 @@ These points refer to the program pkaESSRIM.py:-
 --> first do an ion simulation for large number of times in SRIM-2013 with 'Quick' calculation mode
 	and write the output in its collision.txt file.
 --> keep this collision.txt file in your working directory.
---> prepare your recoil energy bins in a file called RecoilEnergyBins (see the file in the distribution).
+--> prepare your recoil energy bins in a file called RecoilEnergyBins with number of energy points in the first line and a comment in the second line (see the file in the distribution).
 --> run the program by giving inputs interactively.
 --> get the output data files and the plots.
 
